@@ -15,8 +15,11 @@
   <a href="https://th.bing.com/th/id/OIP.3R-Nxo8GGuo6HhDRZghoKgHaHa?pid=ImgDet&w=474&h=474&rs=1" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.3R-Nxo8GGuo6HhDRZghoKgHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="SQL" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <a href="https://images.ctfassets.net/te2janzw7nut/7Eq5Ka08qm8SSCRrzxzZqB/c59c8e54d042b383fabff63604acf472/Microsoft-Power-BI_logo.webp" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.9eociy9v0Ivhxhq3KKVRaQAAAA?rs=1&pid=ImgDetMain" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://docs.cloud.oracle.com/en-us/iaas/Content/Resources/Images/apex.png" target="_blank" rel="noreferrer">
+    <img src="https://docs.cloud.oracle.com/en-us/iaas/Content/Resources/Images/apex.png" alt="Oracle APEX" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -25,6 +28,8 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
 </p>
+
+
 
 
 <!---
