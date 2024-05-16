@@ -1,8 +1,8 @@
 - 👋 Im currently working on building up my GitHub profile with data analytics projects. 
-- 👀 I’m interested in all of it!
+- 👀 I’m interested in all of IT!
 - 🌱 Im learning the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Python, SQL, Power Bi and more!
 - 💞️ Im looking to collaborate on any of the presented data analysis or open to other projects.
-- 📫 Ask me anything data analytics related and Ill be happy to help you out, I love talking about this!
+- 📫 Ask me anything data analytics related and I'll be happy to help you out, I love talking about this!
 - Fun Fact: I love watching movies when Im not in the data world!
 
 <h3 align="left">Connect with me:</h3>
