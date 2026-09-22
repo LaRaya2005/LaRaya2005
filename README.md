@@ -24,7 +24,7 @@ I've worked in healthcare for 9 years and I'm moving into data analytics. I know
 - B.S. in Cybersecurity and Information Assurance, WGU (finishing June 2027)
 
 ## What's next
-Work in healthcare where I can use data and security skills together. I'm aiming for healthcare IT and security roles.
+Work in healthcare where I can use data and security skills together. I'm aiming for data analyst, healthcare IT and security roles.
 
 ## Outside of work
 Big movie person, and I'm always messing with new tech.
