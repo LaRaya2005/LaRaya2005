@@ -8,7 +8,7 @@ I've worked in healthcare for 9 years and I'm moving into data analytics. I know
 - **Learning now:** Linux
 
 - ## Certifications
-- CompTIA A+ (studying)
+- CompTIA A+ Core 1 passed: Core 2 scheduled for Oct 26th. (studying)
 - CompTIA Network+ (studying)
 - CompTIA Security+ (studying)
 
