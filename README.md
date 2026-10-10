@@ -1,30 +1,65 @@
 # Hi, I'm LaRaya 👋
 
-I've worked in healthcare for 9 years and I'm moving into data analytics. I know how clinical data gets created day to day, and I like digging into it to figure out what's working, what's not, and where the numbers don't add up.
+I work with data, cloud, and identity tools, mostly SQL, analytics, and access security.
 
-- **Languages:** SQL (SQL Server / T-SQL), Python (pandas, NumPy)
-- **Data:** Power BI, Excel, data cleaning, visualization, reporting, statistics
-- **Cloud & security:** Azure (VNets, NSGs, VMs, Entra ID, storage), Oracle APEX
-- **Learning now:** Linux
+My background includes Tier 1 application support, data analytics, and healthcare operations. I have an A.A.S. in Data Analytics and I'm currently completing my B.S. in Cybersecurity and Information Assurance at WGU.
 
-- ## Certifications
-- CompTIA A+ Core 1 passed: Core 2 scheduled for Oct 26th. (studying)
-- CompTIA Network+ (studying)
-- CompTIA Security+ (studying)
+I build hands-on with SQL, Snowflake, Microsoft Azure, Entra ID, Power BI, and Python.
 
-## Projects
-- **[Healthcare SQL Analytics]**: SQL queries on a made-up lab testing database. Looks at turnaround times, incomplete orders, patient timelines, testing trends, and data quality checks.
+## What I work with
 
-- **[Azure Cloud Networking]**: Built public and private virtual networks with peering, NSG rules, two VMs, a static website, an Entra ID user, a CPU alert, and a cost estimate. Includes what went wrong and what I'd do differently.
-  
-- **Hospital Cloud Security (in progress)**: A practice hospital environment in Azure with Linux, SQL, access controls, network segmentation, monitoring, and incident response. Repo coming soon.
+- **Data:** SQL, Snowflake, Power BI, Excel, Python
+- **Cloud:** Microsoft Azure
+- **Identity & Security:** Entra ID, MFA, RBAC, least privilege, Conditional Access
+- **Networking:** VNets, subnets, NSGs, TCP/IP
+- **Tools:** Git, GitHub
 
-## Education
-- A.A.S. in Data Analytics, Ivy Tech Community College
-- B.S. in Cybersecurity and Information Assurance, WGU (finishing June 2027)
+## 🧾 Proof 🙃😏
 
-## What's next
-Work in healthcare where I can use data and security skills together. I'm aiming for data analyst, healthcare IT and security roles.
+### 🔐 Entra ID Identity
+Identity and access in Microsoft Entra ID covering users and groups, MFA, Conditional Access, PIM, and access reviews.
+
+**Skills:** Entra ID • IAM • MFA • RBAC • Identity Security
+
+**Status:** In progress
+
+### ❄️ Snowflake IAM Analytics
+Building a Snowflake project that uses SQL to analyze identity and access data. The goal is to identify issues such as excessive permissions, inactive accounts, MFA gaps, and risky access.
+
+**Skills:** Snowflake • SQL • IAM • Data Analytics • Security Analytics
+
+**Status:** In progress
+
+### 📊 Healthcare SQL Analytics
+SQL built around a fictional laboratory dataset. Looks at turnaround times, incomplete orders, testing trends, patient timelines, and data quality problems.
+
+**Skills:** SQL • Data Analysis • Data Quality • Reporting
+
+**Status:** In progress
+
+### ☁️ Azure Cloud Networking
+Hands on Azure environment covering virtual networks, subnets, virtual machines, VNet peering, NSG rules, and monitoring.
+
+**Skills:** Azure • VNets • Virtual Machines • NSGs • Networking • Cloud Security
+
+**Status:** Documentation in progress
+
+## Education & Certifications
+
+**B.S. Cybersecurity and Information Assurance**  
+Western Governors University, expected June 2027
+
+**A.A.S. Data Analytics**  
+Ivy Tech Community College, 2025
+
+**CompTIA A+**  
+Core 1 passed • Core 2 scheduled October 26, 2026
+
+Network+ -> Security+ is next.
+
+## What I'm working toward
+
+I'm interested in opportunities across data analytics, application support, IAM, cloud, and cybersecurity where I can keep building technical experience and solve real problems.
 
 ## Outside of work
 Big movie person, and I'm always messing with new tech.
@@ -39,3 +74,6 @@ Big movie person, and I'm always messing with new tech.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-C74634?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge)
+
